@@ -3,4 +3,4 @@
 <ul>A web app designed using <b>HTML, CSS, and JavaScript</b></ul>
 
 
-git commit -a
+-> Remember! To use it completely, you need to run it on a server, it can be local server or the VSCode's live server
